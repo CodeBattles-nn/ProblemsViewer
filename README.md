@@ -1,32 +1,30 @@
 # ProblemsViewer
-Это программа для визуализации задач в системе CodeBattles, которая очень удобна для отладки 
-
+This is a program for visualizing tasks in the CodeBattles platform. It's very convenient for debugging.
 > [!TIP]
-> Вы можете воспользоваться готовым вариантом, который был развернут и постоянно обновляется
+> You can use a ready-made option that has been deployed and is constantly being updated.
 > [https://preview.codebattles.ru/](https://preview.codebattles.ru/)
 
 ___
 
-## Использование
-После генерации тестов у вас будет **build.json**
+## Usage
+After generating the tests, you will have a **build.json**.
 
-Вставьте его на главной странице
+Paste it on the main page
 
 
 ![image](https://github.com/CodeBattles-nn/ProblemsViewer/assets/61980858/bb2fc050-1741-400c-b7c9-0817caf47327)
 
-После нажатия кнопки `Предпросмотр` появится предпросмотр задачи.
-
+After clicking the `Preview` button a preview of the task will appear.
 ![image](https://github.com/CodeBattles-nn/ProblemsViewer/assets/61980858/e3ad04ed-f129-40cf-b7e5-262b21048284)
 
-## Локальная разработка
-- Установка библиотек
+## Local development
+- Installing libraries
 
 ```sh
 yarn
 ```
 
-- Демонстрация
+- Demonstration
 
 ```sh
 yarn dev
